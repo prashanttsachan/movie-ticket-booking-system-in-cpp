@@ -10,4 +10,4 @@
   # 3. Ticket booking
     book-seat screen-name no-of-seats
     
-    Asked in Udaan placement test drive.
+    Was asked in Udaan placement test drive.
