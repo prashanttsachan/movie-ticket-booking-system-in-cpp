@@ -83,7 +83,7 @@ int main() {
 	    line = words(str);
 	    if (line[0] == "add-screen")
 	        mp[line[1]] = new Screen(line);
-	    else if (line[0] == "vacant") {
+	    else if (line[0] == "vacant-screen") {
 	        mp[line[1]]->vacant();
 	    }
 	    else if (line[0] == "book-seat") {
